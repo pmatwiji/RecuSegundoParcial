@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1562763139 source:c:\users\alumno\desktop\recuperatoriosegundoparcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Peliculas.h"
+	"parser.h"
+	"menu.h"
+	"validaciones.h"
+
+1562770451 c:\users\alumno\desktop\recuperatoriosegundoparcial\linkedlist.h
+
+1562762675 c:\users\alumno\desktop\recuperatoriosegundoparcial\controller.h
+
+1562770140 c:\users\alumno\desktop\recuperatoriosegundoparcial\peliculas.h
+
+1562761128 c:\users\alumno\desktop\recuperatoriosegundoparcial\parser.h
+
+1562759936 c:\users\alumno\desktop\recuperatoriosegundoparcial\menu.h
+
+1562759936 c:\users\alumno\desktop\recuperatoriosegundoparcial\validaciones.h
+
+1562770120 source:c:\users\alumno\desktop\recuperatoriosegundoparcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1562770002 source:c:\users\alumno\desktop\recuperatoriosegundoparcial\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Peliculas.h"
+	"menu.h"
+	"validaciones.h"
+
+1562759936 source:c:\users\alumno\desktop\recuperatoriosegundoparcial\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
+1562770120 source:c:\users\alumno\desktop\recuperatoriosegundoparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Peliculas.h"
+	"menu.h"
+	"validaciones.h"
+
+1562761112 source:c:\users\alumno\desktop\recuperatoriosegundoparcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Peliculas.h"
+	"menu.h"
+
+1562769547 source:c:\users\alumno\desktop\recuperatoriosegundoparcial\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Peliculas.h"
+	"menu.h"
+	<ctype.h>
+
